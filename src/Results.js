@@ -10,7 +10,7 @@ export default function Results(props) {
           <h2>{props.results.word}</h2>
           <span className="phonetics">
             <strong>Pronounced:</strong> <br />
-            <em>{props.results.phonetic}</em>
+            <em>/{props.results.phonetic}/</em>
           </span>
         </section>
 
