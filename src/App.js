@@ -14,6 +14,7 @@ function App() {
         <a
           href="https://github.com/Lottipopps/react-dictionary-app"
           target="_blank"
+          rel="noreferrer"
         >
           Github
         </a>
