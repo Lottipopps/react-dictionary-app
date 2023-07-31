@@ -1,0 +1,15 @@
+section {
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #8b0000;
+  border-radius: 5px;
+  background-color: rgba(245, 245, 245, 0.3);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+  text-align: center;
+}
+.phonetics {
+  font-size: 20px;
+  margin-top: 10px;
+}
